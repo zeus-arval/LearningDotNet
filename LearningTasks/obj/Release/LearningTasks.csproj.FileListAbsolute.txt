@@ -1,0 +1,6 @@
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Release\LearningTasks.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Release\LearningTasks.exe
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Release\LearningTasks.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Release\LearningTasks.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Release\LearningTasks.exe
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Release\LearningTasks.pdb

@@ -1,0 +1,11 @@
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Debug\LearningTasks.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Debug\LearningTasks.exe
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Debug\LearningTasks.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.csproj.AssemblyReference.cache
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.exe
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.csproj.CopyComplete
+C:\Users\a.valdna\source\repos\LearningTasks\LearningTasks\obj\Debug\LearningTasks.csproj.SuggestedBindingRedirects.cache

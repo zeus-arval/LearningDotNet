@@ -1,0 +1,10 @@
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\bin\Debug\FakingData.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\bin\Debug\FakingData.exe
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\bin\Debug\FakingData.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\bin\Debug\Faker.Net.4.7.dll
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\bin\Debug\de-DE\Faker.Net.4.7.resources.dll
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\obj\Debug\FakingData.csproj.AssemblyReference.cache
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\obj\Debug\FakingData.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\obj\Debug\FakingData.csproj.CopyComplete
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\obj\Debug\FakingData.exe
+C:\Users\a.valdna\source\repos\LearningTasks\FakingData\obj\Debug\FakingData.pdb

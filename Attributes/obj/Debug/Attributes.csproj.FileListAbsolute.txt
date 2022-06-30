@@ -1,0 +1,7 @@
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\bin\Debug\Attributes.exe
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\bin\Debug\Attributes.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\obj\Debug\Attributes.exe
+C:\Users\a.valdna\source\repos\LearningTasks\Attributes\obj\Debug\Attributes.pdb

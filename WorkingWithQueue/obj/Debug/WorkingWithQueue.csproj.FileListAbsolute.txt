@@ -1,0 +1,7 @@
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\bin\Debug\WorkingWithQueue.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\bin\Debug\WorkingWithQueue.exe
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\bin\Debug\WorkingWithQueue.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\obj\Debug\WorkingWithQueue.csproj.AssemblyReference.cache
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\obj\Debug\WorkingWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\obj\Debug\WorkingWithQueue.exe
+C:\Users\a.valdna\source\repos\LearningTasks\WorkingWithQueue\obj\Debug\WorkingWithQueue.pdb

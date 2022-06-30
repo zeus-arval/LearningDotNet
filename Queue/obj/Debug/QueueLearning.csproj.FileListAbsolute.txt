@@ -1,0 +1,7 @@
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\bin\Debug\Queue.exe.config
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\bin\Debug\Queue.exe
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\bin\Debug\Queue.pdb
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\obj\Debug\QueueLearning.csproj.AssemblyReference.cache
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\obj\Debug\QueueLearning.csproj.CoreCompileInputs.cache
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\obj\Debug\Queue.exe
+C:\Users\a.valdna\source\repos\LearningTasks\Queue\obj\Debug\Queue.pdb
